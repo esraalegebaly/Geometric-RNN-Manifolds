@@ -4,6 +4,7 @@ Replication and extension of Feulner et al. 2020, exploring how RNN connectivity
 This project builds on the concept of "Within-Manifold" vs. "Outside-Manifold" learning established by **Sadtler et al. (2014)**.
 
 **Key Investigation Areas:**
+
 Q1-Q2: Training dynamics, loss curves, and the impact of connection density on performance.
 
 Q3-Q4: Connectivity sparsity and the role of network graph properties.
