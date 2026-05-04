@@ -1,10 +1,10 @@
-# Geometric-Neuroprosthetics
+**Manifold-Driven-Plasticity**
 Replication and extension of Feulner et al. 2020 — exploring how RNN connectivity structure shapes neural manifolds and motor learning dynamics Replication of Feulner et al. 2020.
 ### **Theoretical Foundation**
 This project builds on the concept of "Within-Manifold" vs. "Outside-Manifold" learning established by **Sadtler et al. (2014)**.
 
 <p align="center">
-  <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4289134/bin/nihms-647970-f0001.jpg" width="80%">
+  <img src="[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4289134/bin/nihms-647970-f0001.jpg" width="80%](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008621)">
   <br>
   <em><b>Figure 1:</b> Manifold-based BCI control setup (Source: Sadtler et al., 2014). This project replicates these dynamics using RNNs.</em>
 </p>
